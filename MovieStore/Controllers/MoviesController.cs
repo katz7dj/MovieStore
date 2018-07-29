@@ -7,7 +7,8 @@ using System.Web.Mvc;
 namespace MovieStore.Controllers
 {
     public class MoviesController : Controller
-    {
+    { 
+
         // GET: Movies
         public ActionResult Index()
         {
